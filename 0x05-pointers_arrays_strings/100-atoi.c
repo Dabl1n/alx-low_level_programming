@@ -2,7 +2,7 @@
 
 /**
  * main - convert a string to an integer
- * @atoi: converts string to integer
+ * _atoi: converts string to integer
  * @s: string of characters
  * Return: the int converted from the string
  */
